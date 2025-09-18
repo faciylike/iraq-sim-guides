@@ -54,3 +54,10 @@ layout: default
 
 　　总之，在伊拉克搞定一张手机卡并不复杂，核心就是“带好护照，去正规门店，按要求实名”。有了网络，导航、翻译、联系、分享……整个旅途的从容感都会完全不一样。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Iraq eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/iraq-data-plans)
